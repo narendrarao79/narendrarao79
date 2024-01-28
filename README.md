@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://media.licdn.com/dms/image/D5616AQFLq8iQpwqQnw/profile-displaybackgroundimage-shrink_350_1400/0/1697998051974?e=1712188800&v=beta&t=39pAsApquvWjnrKsOeLKzeR-ewlDrk_wfjSePbttaJQ)
 <h1 align="center">Hi 👋, I'm Narendra Yadav</h1>
 <h3 align="center">A passionate Full-Stack Dot Net developer from India</h3>
 
