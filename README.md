@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Narendra Yadav</h1>
 <h3 align="center">A passionate Full-Stack Dot Net developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkumar89&label=Profile%20views&color=0e75b6&style=flat" alt="vkumar89" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrarao79&label=Profile%20views&color=0e75b6&style=flat" alt="narendrarao79" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkumar89" alt="vkumar89" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendrarao79" alt="narendrarao79" /></a> </p>
 
 - 📫 How to reach me **narendrayadavbdn2018@gmail.com**
   
